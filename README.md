@@ -1,4 +1,4 @@
-# Laravel 5 & 6 , 7 & 9 Shopping Cart
+# Laravel 5 & 6 , 7 & 9 Shopping Cart Edit by Narek
 [![Build Status](https://travis-ci.org/darryldecode/laravelshoppingcart.svg?branch=master)](https://travis-ci.org/darryldecode/laravelshoppingcart)
 [![Total Downloads](https://poser.pugx.org/darryldecode/cart/d/total.svg)](https://packagist.org/packages/darryldecode/cart)
 [![License](https://poser.pugx.org/darryldecode/cart/license.svg)](https://packagist.org/packages/darryldecode/cart)
